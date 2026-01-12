@@ -5,5 +5,5 @@
 
 ### Topics Covered
 - Python
-- Numpy
+- Numpy(covered all the lectures) 
 
