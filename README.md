@@ -5,5 +5,6 @@
 
 ### Topics Covered
 - Python
-- Numpy(covered all the lectures) 
+- Numpy(covered all the lectures)
+- Starter the Pandas
 
